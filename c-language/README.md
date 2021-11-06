@@ -2,8 +2,8 @@
 **Over 99+ C language based Programs, from easy to advanced.**</br>
 </br>
 *All files are coded in C*  </br>
-Author : gonewithharshwinds
-Date : August 2021
+Author : gonewithharshwinds </br>
+Date : August 2021 </br>
 </br>
 **0000.c** : Hello World </br>
 **0001.c** : Addition </br>
