@@ -9,4 +9,4 @@ Basic Programs with Variables, Strings, Arrays, Functions, Pointers, Structures,
 5) Java (on-going)
 6) R (started)
 ```
-`C-language` `Cpp-language` `Java` `Julia1.7` `Python3`
+`C-language` `Cpp-language` `Java` `Julia1.7` `Python3` `R`
